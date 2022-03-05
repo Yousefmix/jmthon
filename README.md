@@ -3,7 +3,7 @@
 
 ## رابـط السـورس للتنـصيـب
 
-[![Deploy](https://www.herokucdn.com/deploy/butt) on.svg)](https://heroku.com/deploy?template=https://github.com/Yousefmix/joinchat jmthon)
+[![Deploy](https://www.herokucdn.com/deploy/butt) on.svg)](https://heroku.com/deploy?template=https:/yousefmix/github.com//joinchat jmthon)
 
 ## شكـرا لكـم 
 
